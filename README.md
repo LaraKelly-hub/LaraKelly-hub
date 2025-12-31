@@ -1,14 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xrNjMzZzUyOG94ZDE1eWJrZW1xZXlwd3gyazQ2aGo3cThjcXE0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="www.linkedin.com/in/lara-kelly-sousa-" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xrNjMzZzUyOG94ZDE1eWJrZW1xZXlwd3gyazQ2aGo3cThjcXE0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif"  />
 
 ###
 
