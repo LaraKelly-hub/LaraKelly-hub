@@ -1,6 +1,5 @@
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div align="left">
+  <img height="147" src="https://media.giphy.com/https://undraw.co/illustrations/undraw_programming_re_kg9v.svgmedia/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
@@ -21,7 +20,7 @@
 
 ###
 
-<p align="left">Tenho 19 anos, sou do estado do Piauí e atualmente curso Gestão de Dados na UFPI .<br><br>Sou apaixonado por tecnologia e por aprender continuamente, tanto no aspecto técnico quanto comportamental . Gosto de explorar novas ferramentas e transformar dados em informações que geram valor para pessoas e negócios.<br><br>🚀 Áreas de estudo e interesse<br>Python para análise de dados e aprendizado de máquina<br>SQL para manipulação e consulta de bancos de dados<br>Power BI para criação de dashboards e remoção de insights relevantes<br>Power Query para tratamento e transformação de dados<br>Excel (nível intermediário) , com uso de fórmulas, funções avançadas e organização de dados<br>Machine Learning , aplicando modelos para resolver problemas reais<br>Big Data e Estatística , em fase inicial de estudos<br>📊 Aqui no meu GitHub você encontrará projetos voltados para análise de dados , visualização , automação e aprendizado contínuo .<br><br>Seja bem-vindo(a)!</p>
+<p align="left">Tenho 19 anos, sou do estado do Piauí e atualmente curso Gestão de Dados na UFPI .<br><p align="center"><br>  <img src="URL_DA_IMAGEM" width="300"/><br></p><br><br>Sou apaixonado por tecnologia e por aprender continuamente, tanto no aspecto técnico quanto comportamental . Gosto de explorar novas ferramentas e transformar dados em informações que geram valor para pessoas e negócios.<br><br>🚀 Áreas de estudo e interesse<br>Python para análise de dados e aprendizado de máquina<br>SQL para manipulação e consulta de bancos de dados<br>Power BI para criação de dashboards e remoção de insights relevantes<br>Power Query para tratamento e transformação de dados<br>Excel (nível intermediário) , com uso de fórmulas, funções avançadas e organização de dados<br>Machine Learning , aplicando modelos para resolver problemas reais<br>Big Data e Estatística , em fase inicial de estudos<br>📊 Aqui no meu GitHub você encontrará projetos voltados para análise de dados , visualização , automação e aprendizado contínuo .<br><br>Seja bem-vindo(a)!</p>
 
 ###
 
