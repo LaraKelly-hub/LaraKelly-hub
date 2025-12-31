@@ -3,7 +3,24 @@
 
 **`Analista de dados`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+## 👋 Olá, eu sou a Lara Kelly!
+
+Tenho 19 anos, sou do estado do Piauí e atualmente curso **Gestão de Dados** na **UFPI**.
+
+Sou apaixonada por tecnologia e por aprender continuamente, tanto no aspecto **técnico** quanto **comportamental**. Gosto de explorar novas ferramentas e transformar dados em informações que gerem valor para pessoas e negócios.
+
+### 🚀 Áreas de estudo e interesse
+- **Python** para análise de dados e machine learning  
+- **SQL** para manipulação e consulta de bancos de dados  
+- **Power BI** para criação de dashboards e extração de insights relevantes  
+- **Power Query** para tratamento e transformação de dados  
+- **Excel (nível intermediário)**, com uso de fórmulas, funções avançadas e organização de dados  
+- **Machine Learning**, aplicando modelos para resolver problemas reais  
+- **Big Data e Estatística**, em fase inicial de estudos  
+
+📊 Aqui no meu GitHub você encontrará projetos voltados para **análise de dados**, **visualização**, **automação** e **aprendizado contínuo**.
+
+Seja bem-vindo(a)!
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
