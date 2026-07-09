@@ -25,6 +25,15 @@
 </div>
 
 ###
+## Olá! 👋 Tudo bem?
+
+Bem-vindo(a) ao meu cantinho no GitHub! 💙
+
+Aqui compartilho meus projetos, estudos e experimentos nas áreas de **Análise de Dados**, **Business Intelligence** e **Programação**.
+
+Cada repositório representa um passo da minha evolução profissional e do meu compromisso com o aprendizado contínuo.
+
+Obrigado pela visita! Espero que goste do conteúdo. 🚀
 
 <div data-importer="socials" align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
